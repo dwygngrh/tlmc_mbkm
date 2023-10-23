@@ -10,7 +10,9 @@ Langkah langkah
 
 2. Masuk ke anaconda powershell prompt
 
-3. Download source code
+3. conda install -c anaconda git
 
-4. git clone https://gitlab.pam-retd.fr/otm/telemac-mascaret
+4. Download source code
+
+5. git clone https://gitlab.pam-retd.fr/otm/telemac-mascaret
 
