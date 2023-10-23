@@ -6,11 +6,11 @@ install dan running telemac
 
 Langkah langkah
 
-1. install GIT
+1. Install anaconda
 
-GIT adalah protokol untuk mendownload file yang biasanya berupa source code. GIT bisa di linux atau di windows
+2. Masuk ke anaconda powershell prompt
 
-Alamat Download : https://git-scm.com/download/win
+3. Download source code
 
-Pilih single installer 64 bit
+4. git clone https://gitlab.pam-retd.fr/otm/telemac-mascaret
 
