@@ -8,7 +8,7 @@ Langkah langkah
 
 1. Install SVN windows. Download di https://sourceforge.net/projects/tortoisesvn/files/1.14.5/Application/TortoiseSVN-1.14.5.29465-x64-svn-1.14.2.msi/
 
-2. Install Anaconda
+2. Install Anaconda. Download di https://repo.anaconda.com/archive/Anaconda3-2023.09-0-Windows-x86_64.exe
 
 3. Install di MINGW di http://sourceforge.net/projects/mingw/files/
 
